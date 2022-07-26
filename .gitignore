@@ -1,0 +1,7 @@
+/*
+!/.gitignore
+!/.vim
+!/.config/
+/.config/*
+!/.config/nvim
+/.config/nvim/plugged/

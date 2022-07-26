@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/home/thanatos/Iptables'
+let g:netrw_dirhist_8='/home/thanatos/.local/bin'
+let g:netrw_dirhist_7='/home/thanatos/zsh'
+let g:netrw_dirhist_6='/home/thanatos/zsh/complements/Vimrc'
+let g:netrw_dirhist_5='/home/thanatos/zsh/rc'
+let g:netrw_dirhist_4='/home/thanatos/zsh/complements/Analog'
+let g:netrw_dirhist_3='/var/www/discord.js/screenlog'
+let g:netrw_dirhist_2='/var/www/discord.js/.git'
+let g:netrw_dirhist_1='/var/www/mizorate.www/video'
