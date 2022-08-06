@@ -1,1 +1,1 @@
-/Users/thanatos/.vim/vimrc
+../../.vim/nvim/rc
